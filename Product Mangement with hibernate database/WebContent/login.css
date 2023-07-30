@@ -1,0 +1,62 @@
+@charset "ISO-8859-1";
+#form2{
+    margin-left: 0.4cm;
+}
+#form1{
+    margin-left:0.4cm;
+}
+input[type="text"]{
+    margin-left: 6cm;
+    width: 5cm;
+    
+}
+input[type="password"]{
+    margin-left: 6.2cm;
+    width: 5cm;
+}
+div.form{
+    margin-top: auto;
+    margin-left: 8cm;
+    margin-right: 8cm;
+}
+#header{
+    margin-left: 0cm;
+    margin-right: 0cm;
+    margin-top: 5cm;
+    height: 1cm;
+    border: 1px;
+}
+#forget-pass{
+    margin-left: 8.5cm;
+}
+#centrebuttoon{
+    margin-left: 15.5cm;
+    margin-top: 10px;
+}
+.required::after{
+    content: "*";
+    color: red;
+}
+/* #header{
+    margin-bottom: 0cm;
+} */
+div{
+    /* display: inline; */
+    margin: 0;
+    padding: 0;
+}
+.loginbutton{
+	margin-top: 19px;
+	
+    height: 1cm;
+}
+#signup{
+	text-align:center;
+
+    margin-top: 0px;
+    margin-left: 10cm;
+
+}
+#signup-f{
+    background-color: white;
+}

@@ -1,0 +1,83 @@
+@charset "ISO-8859-1";
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+  label{
+    width:140px;
+    display: inline-block;
+    margin: 0.2cm;
+    font-size: 20px;
+    font-weight: bold;
+    
+}
+#heading{
+  text-align: center;
+}
+#para{
+  margin-left: 0.25cm;
+  font-weight: bold;
+}
+#table{
+  /* background-color: aquamarine; */
+  width:100%;
+  margin: 0px; padding: 0px;
+}
+#sno{
+  width: 60px;
+}
+#Quantity{
+  width: 200px;
+}
+#size{
+  width: 200px;
+}
+#title{
+  width: 200px;
+}
+#image{
+  width: 350px;
+}
+#content{
+  margin-left: 0.9cm;
+  margin-right: 0.9cm;
+}
+.card-body{
+  margin-left: 0.9cm;
+  margin-right: 0.9cm;
+}
+#heading{
+  width: 12cm;
+}
+#lbotton{
+  margin-top: 14px;
+  margin-right: 14px;
+  position:absolute;
+  top:0;
+  right:0;
+}
+.text-centre{
+  text-align: center;
+  margin-left: 9cm;
+}
+#username{
+  margin-top: 14px;
+  margin-right: 100px;
+  position:absolute;
+  top:0;
+  right:0;
+}
+#edit{
+  margin-left: 2.5cm;
+}
+#delete{
+  margin-left: 50px;
+}
+#sdata{
+  text-align: center;
+}
+#image{
+  height: 3cm;
+  width: 7cm;
+ 
+}
